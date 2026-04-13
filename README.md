@@ -41,7 +41,6 @@ I am a student currently enhancing my skills in technologies such as **Python, H
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
